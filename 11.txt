@@ -1,0 +1,5 @@
+1.Create a class to print an integer and a character with two methods having the same name *  but different sequence of the integer and the character parameters. For example, if the parameters of the first method are of the form (int n, char c), then that of the second method will be of the form (char c, int n).
+
+2. Create a class named 'DisNum' to print various numbers of different datatypes by creating different methods with the same name 'disData()' having a parameter for each datatype
+
+3. Write a program to print the names of students by creating a Student class and declare a variable of String type with in that class. If no name is passed while creating an object of Student class, then the name should be "Unknown" using default constructor , otherwise the name should be equal to the String value passed while creating object of Student class. (using argumented  constructor)
