@@ -1,2 +1,2 @@
 # COREJAVA
-This repository is basic core java problem.
+> DAC Course Class Practices Java Code.
